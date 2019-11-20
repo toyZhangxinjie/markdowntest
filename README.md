@@ -10,11 +10,11 @@ Postman接口文档地址：https://www.getpostman.com/collections/6f49e3cfa39a2
 <details>
 <summary>行业</summary><blockquote>
 
-		* [查询所有启用的行业列表](#industry.enable.list)
+* [查询所有启用的行业列表](#industry.enable.list)
 
-		* [查询所有启用且显示的行业](#industry.show.list)
+* [查询所有启用且显示的行业](#industry.show.list)
 
-		* [查询单个行业](#industry.info.id)
+* [查询单个行业](#industry.info.id)
 
 </details>
 
