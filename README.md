@@ -7,11 +7,11 @@
 `SMM_auth_token`为pc端使用  
 `X-API-KEY`为移动端或小程序使用**
 
-<details>
-  <summary>行业</summary>
-  
   <details>
-  <summary>查询所有启用的行业列表</summary>
+    <summary>行业</summary>
+  
+      <details>
+        <summary>查询所有启用的行业列表</summary>
   
   **接口描述**
 
@@ -49,7 +49,7 @@
     ]
 }
 ```
-</details>
-</details>
+        </details>
+    </details>
 
 </details>
