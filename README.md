@@ -19,9 +19,3 @@
 
 </details>
 
-blockquote {
-    border-left: 0.4em solid #fff;
-    margin: 0.4em 0;
-    color: #434343;
-    min-height: 0;
-    }
