@@ -1,5 +1,9 @@
 # markdowntest
 
+region i { 测试折叠
+### 哈哈哈哈快来点击
+}
+
 region { 前台接口
 
 **所有前台接口的`headers`中`Cookie(SMM_auth_token)`和`X-API-KEY`表示登录token  
