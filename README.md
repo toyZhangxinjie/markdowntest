@@ -1,8 +1,11 @@
 # markdowntest
 
-region i { 测试折叠
-### 哈哈哈哈快来点击
-} region 测试折叠a
+<details>
+<summary>前台接口</summary>
+
+### 行业
+
+</details>
 
 region { 前台接口
 
