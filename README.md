@@ -11,7 +11,7 @@
 <summary>行业</summary>
   
 
-    * [查询所有启用的行业列表](#industry.enable.list)
+   * [查询所有启用的行业列表](#industry.enable.list)
     
 </details>
 
